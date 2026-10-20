@@ -20,4 +20,10 @@ projeto de desenvolvimento web com HTML e CSS.
 
 ---
 
+## minhas contribuições
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/camilyvitoriarezende5-debug/camilyvitoriarezende5-debug/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 *em constante aprendizado.*
