@@ -1,4 +1,4 @@
-ADS student | software development.
+ADS student | software development. 
 
 
 ## tecnologias
